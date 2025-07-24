@@ -1,0 +1,1 @@
+Yo! This is a local directory with files that were created before initializing a git in the directory (i.e., creating a git repo in a preexisting folder)
